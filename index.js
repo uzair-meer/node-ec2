@@ -2,7 +2,7 @@ import express from "express"
 
 const app = express();
 
-app.listen(80, (req, res) =>{
+app.listen(50000, (req, res) =>{
     console.log('lisitnineif on pirt 5000')
 })
 
